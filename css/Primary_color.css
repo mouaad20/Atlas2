@@ -1,0 +1,68 @@
+
+
+.logo a::after
+{
+border-top: 5px solid #43AA8B;
+border-right: 5px solid #43AA8B;
+}
+.logo a::before
+{
+border-bottom: 5px solid #43AA8B;
+border-left: 5px solid  #43AA8B;
+}
+.home-img::before
+{
+border-top: 10px solid  #43AA8B;
+border-left: 10px solid #43AA8B;
+}
+.home-img::after{
+border-bottom: 10px solid #43AA8B;
+border-right: 10px solid #43AA8B;
+}
+
+.btn,
+.section-title::after,
+.section-title::before,
+.skills-bar,
+.education-dip-item i,
+.service-item-inner:hover .service-icon,
+.btn-toggle span
+
+{
+ background:#43AA8B ;
+ 
+}
+.btn:hover{
+ background: transparent;
+ border: 1px solid #43AA8B;
+ color: #43AA8B;
+}
+nav .menu .nav-list li a:hover,
+nav .menu .nav-list li a.active,
+.home-info h2 span,
+.section-title span,
+.service-icon i,
+.project-domain-name,
+.project-name,
+.contact-item i,
+.contact-title,
+.stat-numbre,
+.testimonial-title,
+.profession,
+footer .name,
+h3.hello span,
+.typing
+{
+color:#43AA8B;
+}
+.statistics .statistic-item,
+.info-img img,
+input:focus,
+textarea:focus,
+body.dark_style input:focus,
+body.dark_style textarea:focus {
+border: 1px solid #43AA8B;
+}
+.education-title,.diploma-title{
+border-bottom: 3px solid #43AA8B;
+}
